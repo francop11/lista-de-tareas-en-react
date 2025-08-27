@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "titulo": "Leer 10 páginas de un libro",
+    "autor": "Usuario123"
+  },
+  {
+    "id": 2,
+    "titulo": "Salir a caminar 20 minutos",
+    "autor": "Usuario456"
+  },
+  {
+    "id": 3,
+    "titulo": "Practicar meditación 5 minutos",
+    "autor": "Usuario789"
+  },
+  {
+    "id": 4,
+    "titulo": "Escribir 3 cosas por las que estás agradecido",
+    "autor": "Usuario234"
+  },
+  {
+    "id": 5,
+    "titulo": "Ordenar tu espacio de trabajo",
+    "autor": "Usuario567"
+  },
+  {
+    "id": 6,
+    "titulo": "Tomar agua y estirarte por 2 minutos",
+    "autor": "Usuario321"
+  },
+  {
+    "id": 7,
+    "titulo": "Escuchar una canción que te guste",
+    "autor": "Usuario654"
+  },
+  {
+    "id": 8,
+    "titulo": "Hacer 10 sentadillas",
+    "autor": "Usuario888"
+  },
+  {
+    "id": 9,
+    "titulo": "Enviar un mensaje positivo a alguien",
+    "autor": "Usuario777"
+  },
+  {
+    "id": 10,
+    "titulo": "Desconectarte del celular por 15 minutos",
+    "autor": "Usuario999"
+  }
+]

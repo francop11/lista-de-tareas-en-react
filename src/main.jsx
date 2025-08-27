@@ -1,10 +1,11 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import ListaDeTareas from './components/ListaDeTareas/ListaDeTareas'
+import Logueo from './components/logueo/Logueo'
+
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    < ListaDeTareas/>
+  <Logueo/>
   </StrictMode>,
 )
